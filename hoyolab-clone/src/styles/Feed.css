@@ -1,0 +1,25 @@
+.feed {
+    position: fixed;
+    display: flex;
+    gap: 20px;
+    top: 70px;
+    left: 150px;
+    background: #2a2a3a;
+    margin-top: 20px;
+    width: 830px;
+    border-radius: 8px
+    }
+
+.feed h2 {
+    font-size: 1.5rem;
+    margin-left: 16px;
+    margin-bottom: 15px;
+    color: #7289da;
+}
+  
+.post {
+    background: #2a2a3a;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+}
